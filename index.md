@@ -9,5 +9,5 @@ date: 2021-08--19
   Collaborative work and the exchange of information between different professionals is
   essential for any project. 
 ### social links
-***twitter_username: walfredoscience***<p/>
-***github_username:  walfredocarneiro***
+#### twitter_username: walfredoscience ####
+#### github_username:  walfredocarneiro ####
